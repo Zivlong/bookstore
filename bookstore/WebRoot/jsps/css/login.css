@@ -1,0 +1,28 @@
+@CHARSET "UTF-8";
+.div1{
+	border:0px solid red;
+	display:inline;
+	width:auto;
+	width:100%;
+	height:100%;
+	float:left;
+	background-color:#f2f2f5;
+}
+.div2{
+	border:0px solid yellow;
+	width:280px;
+	height:50%;
+	line-height:60%;
+	float:left;
+	margin-left:15%;
+	margin-top: 8%;
+}
+
+body{
+	margin:0;
+	padding:0;
+}
+.body{
+-moz-background-size:100% 100%; background-size:100% 100%; 
+	background-image: url("../images/11.jpg");
+}
